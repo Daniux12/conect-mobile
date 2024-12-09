@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737813528844",
+    "project_id": "conectmobile-7b74b",
+    "storage_bucket": "conectmobile-7b74b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737813528844:android:5c911bc0bf21600bb14929",
+        "android_client_info": {
+          "package_name": "com.stomas.conectamobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPethOR-oqsgv2XA6KL3-eEhli92PUp6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
